@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4861eae1-a662-44e9-9c1a-83dd0826c8e0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="4861eae1-a662-44e9-9c1a-83dd0826c8e0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,10 +24,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="simple.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/email-templates/simple.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
+            <state relative-caret-position="9795">
               <caret line="653" column="34" lean-forward="false" selection-start-line="653" selection-start-column="34" selection-end-line="653" selection-end-column="34" />
               <folding />
             </state>
@@ -64,10 +72,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sendemail.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sendemail.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sendemail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="0">
               <caret line="16" column="75" lean-forward="true" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
               <folding />
             </state>
@@ -202,12 +210,12 @@
       <updated>1520287578265</updated>
       <workItem from="1520287579406" duration="817000" />
       <workItem from="1520288931018" duration="17015000" />
-      <workItem from="1520353583516" duration="2556000" />
+      <workItem from="1520353583516" duration="2696000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20388000" />
+    <option name="totallyTimeSpent" value="20528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="23" width="1649" height="1027" extended-state="0" />
@@ -300,14 +308,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/ico/favicon.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -328,14 +328,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sendemail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="75" lean-forward="true" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/ico/apple-touch-icon-72-precomposed.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -343,8 +335,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
+        <state relative-caret-position="9795">
           <caret line="653" column="34" lean-forward="false" selection-start-line="653" selection-start-column="34" selection-end-line="653" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email-templates/simple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sendemail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="75" lean-forward="true" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
           <folding />
         </state>
       </provider>
