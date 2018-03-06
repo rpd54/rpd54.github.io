@@ -6,7 +6,7 @@
     header( 'Content-type: application/json' );
 
 
-    $to         = 'rpd54@mail.umkc.edu';  // put your email here
+    $to         = 'rpd54@mail.umkc.edu';
 
     $email_template = 'simple.html';
 
